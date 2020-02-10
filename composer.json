@@ -1,5 +1,5 @@
 {
-    "name": "cpoint-eu/core-bundle",
+    "name": "symfony-cmf/core-bundle",
     "type": "symfony-bundle",
     "description": "Symfony CMF Core Bundle",
     "keywords": [
